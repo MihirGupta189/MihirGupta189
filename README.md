@@ -1,0 +1,1 @@
+Dedicated data analyst with 1.5 years of experience in extracting, cleaning, analyzing, and visualizing data to drive informed decision-making. Proficient in Python, SQL, Advanced Excel, and Power BI. Passionate about leveraging data to uncover insights and solve complex problems.
